@@ -32,6 +32,7 @@ class lexer{
         }
         Token scan()
         {
+
             for(;;cin >> peek;)
             {
                 if(peek == ' '|| peek == '\t') 
