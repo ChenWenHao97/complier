@@ -1,6 +1,8 @@
 #include <iostream>
 #include "LA.h"
 
+
+
 using namespace std;
 
 LA::LA(const char * s):fin(s),line(1), num(0), fg(0), ch('\0')

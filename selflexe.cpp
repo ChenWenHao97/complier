@@ -12,6 +12,7 @@ static string reserve[] = {"int", "double", "char", "if",
                            "return", "break", "continue","printf"};
 set<string> table;
 
+
 enum tokentype
 {
     kttempty,
